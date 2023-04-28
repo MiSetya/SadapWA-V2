@@ -42,7 +42,7 @@ sleep 30
 echo $i"SADAP WA LEWAT TERMUX!? MOONTON BERCANDA!?"
 echo
 sleep 1
-echo $i"MANA BISA AJG!"
+echo $i"MANA BISA REZA!"
 sleep 2
 fi
 
